@@ -1,0 +1,4 @@
+Jul 10, 2024 10:52:20 AM logging main
+WARNING: Test logging 1
+Jul 10, 2024 10:52:20 AM logging main
+INFO: Test logging 2
